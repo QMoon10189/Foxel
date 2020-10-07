@@ -32,7 +32,7 @@ if(defined('pocketmine\_VERSION_INFO_INCLUDED')){
 }
 const _VERSION_INFO_INCLUDED = true;
 
-const NAME = "Foxel";
+const NAME = "Lextus";
 const BASE_VERSION = "3.12.6";
-const IS_DEVELOPMENT_BUILD = false;
+const IS_DEVELOPMENT_BUILD = true;
 const BUILD_NUMBER = 0;
